@@ -10,6 +10,6 @@ This is a Sample aplication which contains following demos.
   - Expandable cardview.
   - Expandable Nested recycler view.
 
-Ref links:
-ExpandableCardView : https://github.com/gifffert/ExpandableCardView/tree/master
-Nested-RecyclerView-Inside-Expandable-RecyclerView : https://github.com/CodingSTUFF070/Nested-RecyclerView-Inside-Expandable-RecyclerView
+# Ref links:
+ - ExpandableCardView : https://github.com/gifffert/ExpandableCardView/tree/master
+ - Nested-RecyclerView-Inside-Expandable-RecyclerView : https://github.com/CodingSTUFF070/Nested-RecyclerView-Inside-Expandable-RecyclerView
