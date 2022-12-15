@@ -1,5 +1,5 @@
 # Recycler-view-master
-This is a Sample aplication which contains.
+This is a Sample aplication which contains following demos.
 
   - Simple Recyclerview
   - Recyclerview with card view.
